@@ -25,7 +25,7 @@ box-shadow: -1px 5px 5px 0px rgba(0,0,0,0.75);}
 	.right .circle img{position: absolute; width: 310px; height: 310px;}
 	.contact-menu{margin-top: 0px;}
 	.contact-menu > p:nth-child(2){border: 3px solid var(--brandcolor); color: var(--brandcolor); white-space: nowrap;}
-	.para2{white-space: pre-wrap; width: 100%; font-size: 30px; margin: 20px auto; padding: 20px;}
+	p.para2{white-space: pre-wrap; width: 100%; font-size: 21px; margin: 20px auto; padding: 20px;}
 	.left button.btn{width: 120px; margin-top: 10px; background: #434f9b; padding: 10px;}
 	.circle img{width: 320px; height: 320px; object-fit: cover; margin-top: 100px;}
 	.showcase1{flex-direction: column; justify-content: left;}
