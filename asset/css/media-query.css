@@ -9,7 +9,7 @@ box-shadow: -1px 5px 5px 0px rgba(0,0,0,0.75);}
 	left: -100%; z-index: 99999; padding: 0 0 10px 30px; transition: all 1s ease;}
 	.nav-menu.open{left: 0;}
 	.nav-menu li{text-align: left;}
-	.nav-menu li a{font-size: 14px; letter-spacing: 0.2em;}
+	.nav-menu li a{font-size: 14px; letter-spacing: 0.2em; color: #000;}
 	.close-icon{display: block;}
 	.menuIcon{display: block;}
 	.nav-link1,.nav-link2, .nav-link3, .nav-link4{color: #000!important; }
